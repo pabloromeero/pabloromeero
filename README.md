@@ -2,7 +2,7 @@
 
 
 
-- 👨🏻‍💻Estudando Back End.
+- 👨🏻‍💻Studying Back End.
 ##
 
 <div align="center">
