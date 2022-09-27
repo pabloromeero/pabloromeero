@@ -2,7 +2,7 @@
 
 
 
-- 👨🏻‍💻Studying Back End.
+- 👨🏻‍💻Dev Back End.
 ##
 
 <div align="center">
