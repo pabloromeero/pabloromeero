@@ -2,7 +2,7 @@
 
 
 
-- 👨🏻‍💻Dev Back End.
+- 👨🏻‍💻Dev Full Stack.
 ##
 
 <div> 
